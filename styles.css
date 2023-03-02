@@ -1,1 +1,66 @@
-/* Write your CSS here! */
+h1 {
+    text-align: center;
+    font-size: 45pt;
+    font-family: 'Brush Script MT', cursive;
+    margin: 50px;
+    margin-right: 150px;
+    margin-left: 80px;
+    display: block;
+  }
+.mainHeading {
+    color: red;
+    
+}
+
+a:link {
+    text-align: center;
+    font-size: 15pt;
+    margin: 8px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    display: block;
+
+
+  }
+#funParagraph {
+    color: green;
+    text-align: center;
+    font-size: 15pt;
+    margin: 8px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    display: block;
+
+
+}
+#first-paragraph {
+    text-align: center;
+    font-size: 15pt;
+}
+p {
+    text-align: center;
+    margin: 8px;
+    display: block;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    font-size: 15pt;
+  }
+div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+body {
+    background-color:rgb(255, 224, 107);
+    background-image: radial-gradient(rgb(255, 255, 255) 20%, rgba(0, 0, 0, 0) 20%), radial-gradient(rgb(255, 255, 255) 20%, rgba(0, 0, 0, 0) 20%);
+    background-position-x: 0px, 7px;
+    background-position-y: 0px, 7px;
+    background-repeat: round;
+    background-size: 15.008px 15.008px, 15.008px 15.008px;
+}
