@@ -7,7 +7,7 @@ h1 {
     margin-left: 80px;
     display: block;
   }
-.mainHeading {
+#mainHeading {
     color: red;
 }
 
@@ -23,7 +23,7 @@ a:link {
 
   }
 
-#funParagraph {
+p.funParagraph {
     color: green;
     text-align: center;
     font-size: 15pt;
