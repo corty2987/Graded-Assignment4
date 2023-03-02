@@ -7,11 +7,12 @@ h1 {
     margin-left: 80px;
     display: block;
   }
-#mainHeading {
+
+  #mainHeading{
     color: red;
 }
 
-a:link {
+a:link{
     text-align: center;
     font-size: 15pt;
     margin: 8px;
